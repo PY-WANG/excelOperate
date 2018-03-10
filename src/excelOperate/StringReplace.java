@@ -86,6 +86,7 @@ public class StringReplace {
 		}
 		// 合并输出
 		//stringReplace.saveByMerge(lettered);
+		// 单独输出
 		stringReplace.saveBySingle(lettered);
 	}
 }
