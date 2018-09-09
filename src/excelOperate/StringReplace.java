@@ -6,9 +6,9 @@ import java.util.Iterator;
 public class StringReplace {
 	static String letterName = "D:/CODE/Documents/letterMode.xml";
 	static String fileName = "D:/CODE//Documents/2016-2017.xls";
-	static String dateString = "2018-03-03";
+	static String dateString = "2018-09-04";
 	static int dateCol = ExcelFile.getDateCol(dateString, fileName);
-	static String[] repedString = { "%Author%", "%PaperTitle%", "%volumeNum%", "%issueNum%", "%quotedNum%", "%Email%" };
+	static String[] repedString = { "Author", "PaperTitle", "volumeNum", "issueNum", "quotedNum", "Email" };
 	static String letter = TextFile.read(letterName);
 
 	/**

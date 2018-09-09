@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="D:/Program_Files/Java/java_jar/jxl.jar"/>
 	<classpathentry kind="lib" path="D:/Program_Files/Java/java_jar/poi-3.17/poi-3.17.jar"/>
 	<classpathentry kind="lib" path="D:/Program_Files/Java/java_jar/poi-3.17/poi-examples-3.17.jar"/>
@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="D:/Program_Files/Java/java_jar/poi-3.17/poi-ooxml-3.17.jar"/>
 	<classpathentry kind="lib" path="D:/Program_Files/Java/java_jar/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
 	<classpathentry kind="lib" path="D:/Program_Files/Java/java_jar/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Program_Files/Java/java_jar/mysql-connector-java-5.1.38.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
